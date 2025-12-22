@@ -1,0 +1,9 @@
+{
+  "name": "AETHER - Touchless Intent Engine",
+  "description": "A world-class Human-Machine Interaction (HMI) platform for controlling systems via hand gestures, eye tracking, and body intent. Includes the Web Control Deck and the Python Brain architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
